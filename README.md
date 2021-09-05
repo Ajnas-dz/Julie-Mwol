@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 10px src="https://i.imgur.com/bNYbdXa.jpeg" width="180" height="180"/>
+  <img border-radius: 15px src="https://i.imgur.com/bNYbdXa.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="ChinjuMwol" src="https://img.shields.io/badge/ChinjuMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
